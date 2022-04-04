@@ -10,7 +10,7 @@ HTML, CSS, JS, React
 
 ## Objetivo
 
-O objetivo do projeto é criar uma pagina que voce consegue criar planejamento de custos aos projetos, desde o valor total a ser gasto, até o valor de custo do freelancer de desenvolvimento, design ou infra.
+O objetivo do projeto é criar uma pagina que voce consegue fazer o planejamento dos custos dos projetos, desde o valor total a ser gasto, até o valor de custo do freelancer de desenvolvimento, design ou infra.
 
 ## Pré-requisitos
 
